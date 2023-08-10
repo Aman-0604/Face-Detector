@@ -1,1 +1,4 @@
 venv
+.idea
+.models/haarcascade_frontalface_default.xml
+.DS_Store
